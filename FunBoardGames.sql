@@ -8,7 +8,7 @@ id_game INT primary key,
 stock_game INT,
 price_game INT,
 type_game varchar(20),
-age int
+age int,
 img_game VARCHAR(100)
 );
 
