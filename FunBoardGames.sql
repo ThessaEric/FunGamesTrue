@@ -3,11 +3,13 @@ CREATE DATABASE FunBoardGames;
 USE FunBoardGames;
 
 CREATE TABLE Game (
+name_game varchar(20)
 id_game INT primary key,
 stock_game INT,
 price_game INT,
 type_game varchar(20),
 age int
+img_game VARCHAR(100)
 );
 
 CREATE TABLE Orders (
