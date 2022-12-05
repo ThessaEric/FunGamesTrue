@@ -62,9 +62,9 @@ INSERT INTO Game VALUES('Risk',13,100,50,'?',5,"https://c8.alamy.com/compfr/rtbk
 INSERT INTO Game VALUES('Docteur Maboule',14,100,50,'?',5,"https://www.jouetopia.fr/wp-content/uploads/docteur-maboul-jeu-societe.jpg");
 INSERT INTO Game VALUES('Dames',15,100,50,'?',5,"https://st.depositphotos.com/1016680/3591/i/950/depositphotos_35919473-stock-photo-checkers.jpg");
 INSERT INTO Game VALUES('Milles Bornes',16,100,50,'?',5,"https://img2.freepng.fr/20180702/ova/kisspng-mille-bornes-jigsaw-puzzles-dujardin-card-game-boa-robocar-poli-5b39c941aaa407.568024121530513729699.jpg");
-INSERT INTO Game VALUES("Jeu de l'Oie",17,100,50,'?',5);
-INSERT INTO Game VALUES('Mastermind',18,100,50,'?',5);
-INSERT INTO Game VALUES('Les petits chevaux',19,100,50,'?',5);
-INSERT INTO Game VALUES("Qui est ce",20,100,50,'?',5);
+INSERT INTO Game VALUES("Jeu de l'Oie",17,100,50,'?',5,"https://www.shutterstock.com/image-photo/netherlands-eindhoven-februari-25-2017-260nw-1089504368.jpg");
+INSERT INTO Game VALUES('Mastermind',18,100,50,'?',5,"https://www.regles-de-jeux.com/wp-content/uploads/2013/10/regle-mastermind.jpg");
+INSERT INTO Game VALUES('Les petits chevaux',19,100,50,'?',5,"https://www.agoralude.com/4567-thickbox_default/petit-chevaux-tapis-grande-taille.jpg");
+INSERT INTO Game VALUES("Qui est ce",20,100,50,'?',5,"https://www.espritjeu.com/upload/image/qui-est-ce-r-p-image-70519-grande.jpg");
 
 
