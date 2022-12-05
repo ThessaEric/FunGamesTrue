@@ -3,7 +3,7 @@ CREATE DATABASE FunBoardGames;
 USE FunBoardGames;
 
 CREATE TABLE Game (
-name_game varchar(20)
+name_game varchar(20),
 id_game INT primary key,
 stock_game INT,
 price_game INT,
