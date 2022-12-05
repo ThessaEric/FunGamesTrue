@@ -1,0 +1,60 @@
+#bd{
+  font-family: "ubuntu";
+  
+  background-color: white;
+  text-align: center;
+  }
+
+@font-face{
+  font-family: "ubuntu";
+  src: url("./fonts/ubuntu/Ubuntu-Regular.ttf") ;
+}
+
+
+.divCarousel {
+            height: 100%;
+        
+            padding: 0px;
+ 
+            .carousel-inner {
+                height: 100%;
+                 
+ 
+                .carousel-item {
+                    height: 100%;
+                     
+                }
+            }
+ 
+.carousel-item img {
+      height: 900px;
+     width: 100%;
+       }
+       }
+
+
+#banner1{
+	display: block;
+	background: rgb(0,128,255);
+  background: -webkit-linear-gradient(left, rgb(3,196,252), rgb(70,1,254));
+  background: -o-linear-gradient(left,rgb(3,196,252), rgb(0,128,255), rgb(70,1,254));
+  background: -moz-linear-gradient(left,rgb(3,196,252), rgb(0,128,255), rgb(70,1,254));
+  background: linear-gradient(left, rgb(3,196,252), rgb(0,128,255), rgb(70,1,254));
+	height: 30px;
+	width: 100%;
+}
+
+
+
+.nav-link dropdown-toggle:hover{
+     background: rgb(0,128,255);
+  background: -webkit-linear-gradient(left, rgb(3,196,252), rgb(70,1,254));
+  background: -o-linear-gradient(left,rgb(3,196,252), rgb(0,128,255), rgb(70,1,254));
+  background: -moz-linear-gradient(left,rgb(3,196,252), rgb(0,128,255), rgb(70,1,254));
+  background: linear-gradient(left, rgb(3,196,252), rgb(0,128,255), rgb(70,1,254));;
+  font-size: 20px;
+  border-radius: 5px;
+
+}
+
+
